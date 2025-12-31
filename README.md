@@ -1,4 +1,4 @@
-# Supabase Todo List API
+# Todo List API
 
 ## 1. 创建Supabase项目
 
