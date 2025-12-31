@@ -1,4 +1,4 @@
-# Todo List
+# Todo List Project
 
 ## 1. 创建Supabase项目
 
